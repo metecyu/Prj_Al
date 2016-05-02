@@ -1,0 +1,4 @@
+insert into t_catalog (id,fnodeId,nodeName,serNo) values (1,-1,'root',1);
+insert into t_catalog (id,fnodeId,nodeName,serNo) values (2,1,'”¢”Ô',1);
+insert into t_catalog (id,fnodeId,nodeName,serNo) values (3,2,'”¢”Ô—ßœ∞',1);
+insert into t_catalog (id,fnodeId,nodeName,serNo) values (4,3,'voa',1);

@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":
+	[
+	    {
+	    "name": "Run Tests",
+	    "working_dir": "D:/server/Python27/mysqlTest/Prj_Al/dao",
+	    "cmd": ["D:/server/Python27/mysqlTest/Scripts/python.exe", "CatalogDao.py", "test"]
+	    }
+	]
+}
