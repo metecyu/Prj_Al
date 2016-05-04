@@ -1,4 +1,4 @@
-
+﻿
 DROP TABLE IF EXISTS `t_catalog`;
 CREATE TABLE `t_catalog` (
   `id` int(11) NOT NULL,
@@ -15,8 +15,8 @@ CREATE TABLE t_Task (
 	nodeId  int NOT NULL ,
 	taskName  varchar(50)  ,
 	date  datetime  NOT NULL ,
-	userId  int NOT NULL ,
-	status  varchar(50)  ,
+	userId  varchar(50)  ,
+	status  int NOT NULL  ,
 	PRIMARY KEY (id)
 )
 
