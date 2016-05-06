@@ -4,8 +4,7 @@
 Created on 2013-2-25
 @author: TonyYu
 '''
-
-from dao import TaskDao
+import TaskDao
 
     
 def testGetTaskListByDate():
