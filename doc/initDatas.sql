@@ -15,3 +15,4 @@ insert into t_task (id,nodeId,taskName,date,userId,status) values (501,99,'pytho
 insert into t_task (id,nodeId,taskName,date,userId,status) values (502,99,'python 调用获取任务列表服务','2016-5-6','yzp',0);
 insert into t_task (id,nodeId,taskName,date,userId,status) values (503,99,'查询任务列表的Gui显示','2016-5-6','yzp',0);
 insert into t_task (id,nodeId,taskName,date,userId,status) values (504,4,'voa','2016-5-6','yzp',0);
+

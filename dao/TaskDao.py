@@ -6,6 +6,7 @@ Created on 2013-2-25
 '''
 
 import mysql.connector
+import Db
 
     
 '''
@@ -21,7 +22,7 @@ class Task():
 
 
 def getTaskListByDate(searchDate):    
-    conn = mysql.connector.connect(user='root', password='root', database='db_al')
+    conn = Db.getConn()
     cursor = conn.cursor()
     # 获取id
     cursor.execute('select id,taskName,status from t_task  where date=%s',(searchDate,))

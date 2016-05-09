@@ -19,6 +19,46 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "web/simplServer.py",
+			"settings":
+			{
+				"buffer_size": 235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "doc/cmd.bat",
+			"settings":
+			{
+				"buffer_size": 80,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/client.py",
+			"settings":
+			{
+				"buffer_size": 6641,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "doc/initDatas.sql",
+			"settings":
+			{
+				"buffer_size": 1604,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/urllibTest.py",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -83,17 +123,22 @@
 	"expanded_folders":
 	[
 		"/D/pyWorkspace/Prj_Al/Prj_Al",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/dao",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/doc",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/web"
+		"/D/pyWorkspace/Prj_Al/Prj_Al/doc"
 	],
 	"file_history":
 	[
+		"/D/pyWorkspace/Prj_Al/Prj_Al/doc/数据结构.xlsx",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/TaskController.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/config.json",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/TaskControllerTest.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/simplServer.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/urllibTest.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/TaskDaoTest.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/Client1.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/test.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/TaskDao.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/__init__.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/TaskController.py",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/web/TaskController.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/CatalogDaoTest.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/CatalogDao.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/web/TaskController",
@@ -128,7 +173,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -142,6 +187,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"testResualtLabel",
+			"testing",
+			"muteBtn",
+			"testResualtLabel",
+			"process",
+			"testResualtLabel",
+			"il",
+			"i1",
+			"serverchen",
 			"auto_complete_trigger",
 			"values",
 			"python",
@@ -169,8 +223,151 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "web/simplServer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "doc/cmd.bat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/client.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5171,
+								5187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2106.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "doc/initDatas.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1137,
+								1137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "web/urllibTest.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -207,7 +404,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 183.0
+		"height": 106.0
 	},
 	"output.find_results":
 	{
@@ -266,7 +463,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 253.0,
 	"status_bar_visible": true,
 	"template_settings":

@@ -6,14 +6,14 @@ Created on 2013-2-25
 '''
 
 import mysql.connector
-
+import Db
     
 '''
     添加一个目录
 '''
-conn = mysql.connector.connect(user='root', password='root', database='db_al')
 
 def addNode(nodeName,fNodeId):    
+    conn = Db.getConn()
     cursor = conn.cursor()
     # 获取id
     cursor.execute('select MAX(id) as id from t_catalog ')
