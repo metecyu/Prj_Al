@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"js",
+				"json_data"
+			],
+			[
 				"task",
 				"taskListJson"
 			],
@@ -20,18 +24,18 @@
 	"buffers":
 	[
 		{
-			"file": "web/simplServer.py",
+			"file": "client/UltimateReportDemo.py",
 			"settings":
 			{
-				"buffer_size": 235,
-				"line_ending": "Unix"
+				"buffer_size": 43990,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "doc/cmd.bat",
+			"file": "/D/pyWorkspace/wxPython3.0 Docs and Demos/demo/agw/UltimateListCtrl.py",
 			"settings":
 			{
-				"buffer_size": 80,
+				"buffer_size": 2017,
 				"line_ending": "Windows"
 			}
 		},
@@ -39,24 +43,25 @@
 			"file": "client/client.py",
 			"settings":
 			{
-				"buffer_size": 6641,
+				"buffer_size": 995,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "doc/initDatas.sql",
+			"file": "client/clent_bak.py",
 			"settings":
 			{
-				"buffer_size": 1604,
-				"line_ending": "Windows"
+				"buffer_size": 7431,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "web/urllibTest.py",
+			"contents": "2016-05-04       8\n2016-05-05       9\n2016-05-06       8\n\n2016-05-09       9\n2016-05-10       7\n2016-05-11       8\n2016-05-12       吃小蔡\n2016-05-13       7.5",
 			"settings":
 			{
-				"buffer_size": 275,
-				"line_ending": "Unix"
+				"buffer_size": 156,
+				"line_ending": "Windows",
+				"name": "2016-05-04       8"
 			}
 		}
 	],
@@ -123,29 +128,41 @@
 	"expanded_folders":
 	[
 		"/D/pyWorkspace/Prj_Al/Prj_Al",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/client/agw",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/doc"
 	],
 	"file_history":
 	[
-		"/D/pyWorkspace/Prj_Al/Prj_Al/doc/数据结构.xlsx",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/web/TaskController.py",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/web/config.json",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/web/TaskControllerTest.py",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/web/simplServer.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/web/urllibTest.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/TaskControllerTest.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/TaskDaoTest.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/doc/initDatas.sql",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/CatalogDao.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/TaskDao.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/Db.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/client/Rpc.py",
+		"/D/pyWorkspace/wxPython3.0 Docs and Demos/demo/images.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/client/client.py",
+		"/D/pyWorkspace/wxPython3.0 Docs and Demos/demo/agw/UltimateReportDemo.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/simplServer.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/TaskController.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/doc/cmd.bat",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/ListDemo.py",
+		"/D/pyWorkspace/wxPython3.0 Docs and Demos/demo/agw/UltimateListCtrl.py",
+		"/D/pyWorkspace/wxPython3.0 Docs and Demos/demo/GenericDirCtrl.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/CatalogDaoTest.py",
+		"/D/pyWorkspace/wxPython3.0 Docs and Demos/wxPython/samples/wxPIA_book/Chapter-02/images.py",
+		"/D/pyWorkspace/wxPython3.0 Docs and Demos/demo/agw/images.py",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/web/config.json",
+		"/D/pyWorkspace/Prj_Al/Prj_Al/doc/数据结构.xlsx",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/web/Client1.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/web/test.py",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/TaskDao.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/__init__.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/TaskController.py",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/CatalogDaoTest.py",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/CatalogDao.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/web/TaskController",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Prj_Al.sublime-build",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/dao/test1.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/doc/tables.sql",
-		"/D/pyWorkspace/Prj_Al/Prj_Al/doc/initDatas.sql",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/TaskDaoTest.py",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/doc/tables.txt",
 		"/D/pyWorkspace/Prj_Al/Prj_Al/doc/initDatas.txt",
@@ -173,7 +190,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -187,6 +204,54 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"style",
+			"musicdata",
+			"TestUltimateListCtrl",
+			"list",
+			"window",
+			"windows",
+			"getwindow",
+			"setwin",
+			"listmix",
+			"setwindow",
+			"I Am A Simple",
+			"list",
+			"musicdata",
+			"image",
+			"MegaImageRenderer",
+			"image",
+			"box",
+			"check",
+			"checkbox",
+			"MegaImageRenderer",
+			"render",
+			"TestFrame",
+			"TestPanel",
+			"delete",
+			"MegaTable",
+			"TestFrame",
+			"MegaGrid",
+			"MegaTable",
+			"for",
+			"idx1",
+			"insert",
+			"grid",
+			"idx1",
+			"images",
+			"list",
+			"imgTomato",
+			"rightImgIdx",
+			"for",
+			"rightImgIdx",
+			"list",
+			"SetStringItem",
+			"for",
+			"CheckThread",
+			"MyApp",
+			"CheckThread",
+			"localhost",
+			"testResualtLabel",
+			"insert",
 			"testResualtLabel",
 			"testing",
 			"muteBtn",
@@ -223,57 +288,61 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "web/simplServer.py",
+					"file": "client/UltimateReportDemo.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 235,
+						"buffer_size": 43990,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								235,
-								235
+								18279,
+								18295
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": 136.0,
+						"translation.y": 7776.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "doc/cmd.bat",
+					"file": "/D/pyWorkspace/wxPython3.0 Docs and Demos/demo/agw/UltimateListCtrl.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 80,
+						"buffer_size": 2017,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21,
-								23
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -288,15 +357,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6641,
+						"buffer_size": 995,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5171,
-								5187
+								248,
+								248
 							]
 						],
 						"settings":
@@ -306,66 +375,96 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2106.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "doc/initDatas.sql",
-					"semi_transient": false,
+					"file": "client/clent_bak.py",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1604,
+						"buffer_size": 7431,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1137,
-								1137
+								7430,
+								7394
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/SQL/SQL.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2860.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "web/urllibTest.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 275,
+						"buffer_size": 156,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								250,
-								250
+								17,
+								18
+							],
+							[
+								36,
+								37
+							],
+							[
+								55,
+								56
+							],
+							[
+								75,
+								76
+							],
+							[
+								94,
+								95
+							],
+							[
+								113,
+								114
+							],
+							[
+								132,
+								134
+							],
+							[
+								153,
+								156
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"auto_name": "2016-05-04       8",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -373,7 +472,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -404,7 +503,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 106.0
+		"height": 160.0
 	},
 	"output.find_results":
 	{
@@ -414,7 +513,7 @@
 	"project": "sbProject.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -423,6 +522,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"clent",
+				"client\\client.py"
+			],
 			[
 				"tas",
 				"dao\\TaskDao.py"
@@ -463,8 +566,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 253.0,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
